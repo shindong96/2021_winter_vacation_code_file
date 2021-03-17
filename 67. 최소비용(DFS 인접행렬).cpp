@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
+/*aa
 67. 최소비용(DFS : 인접행렬)
 가중치 방향그래프가 주어지면 1번 정점에서 N번 정점으로 가는 최소비용을 출력하는 프로그
 램을 작성하세요.
